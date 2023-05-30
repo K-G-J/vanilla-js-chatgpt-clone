@@ -8,6 +8,16 @@
     <title>ChatGPT Clone</title>
   </head>
   <body>
-    <script src="./index.js"></script>
+    <div class="chat-container">
+      <div class="chat-log">
+        <!-- dynamic -->
+      </div>
+      <div class="new-message">
+        <form>
+          <input type="text" id="prompt" placeholder="Send a message..." />
+        </form>
+      </div>
+    </div>
+    <script type="module" src="./chatgpt.js"></script>
   </body>
 </html>

@@ -1,0 +1,13 @@
+{
+  "name": "vanilla-js-ChatGPT-clone",
+  "version": "1.0.0",
+  "description": "JavaScript Basic ChatGPT Clone",
+  "main": "index.js",
+  "repository": "git@github.com:K-G-J/vanilla-js-chatgpt-clone.git",
+  "author": "Kate Johnson <johnson.kat.g@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2"
+  }
+}
